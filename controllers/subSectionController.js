@@ -1,4 +1,4 @@
-import SubSection from '../models/subSection.js';
+import subSection from '../models/subSection.js';
 import Section from '../models/section.js';
 import { uploadImageToCloudinary } from '../utils/imageUploader.js';
 import dotenv from 'dotenv';
